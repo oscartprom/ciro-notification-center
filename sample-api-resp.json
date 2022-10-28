@@ -1,0 +1,22 @@
+[
+    {
+        "id": 8546,
+        "companyName": "Pacific Dental Aesthetics",
+        "companyUrl": "pacificdentalaesthetics.com",
+        "companyPhone": "(310) 643-9711",
+        "companyAddress": "14650 Aviation Blvd #185, Hawthorne, CA 90250",
+        "notificationBody": "Pacific Dental Aesthetics started using Flex today",
+        "notificationSource": "",
+        "timestamp": "2022-10-28T11:59:41.435Z"
+    },
+    {
+        "id": 1269,
+        "companyName": "Bjorklund Dental Designs",
+        "companyUrl": "mnsmiles.com",
+        "companyPhone": "(952) 475-1997",
+        "companyAddress": "250 Central Ave N #111, Wayzata, MN 55391",
+        "notificationBody": "Bjorklund Dental Designs recently hired a new office manager",
+        "notificationSource": "https://www.facebook.com/BjorklundDentalDesigns/",
+        "timestamp": "2022-10-28T12:00:19.540Z"
+    }
+]

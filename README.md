@@ -12,6 +12,7 @@ Two component: React frontend and Node.js / Express backend
   ![Ciro Notification Center UI Screenshot](./UI-Screenshot.png)
 
 ### Extensions
+  - convert to typescript
   - add unit & screen-render based tests
   - add static build to Express server via public directory
   - style with Material UI or other comparable library

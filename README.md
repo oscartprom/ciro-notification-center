@@ -7,6 +7,9 @@ Two component: React frontend and Node.js / Express backend
   - Run "$ npm i" in both ciro-backend and ciro-frontend dirs
   - Run the backend: $ cd ciro-backend && node app.js
   - Run the frontend: $ cd ciro-frontend && npm run start
+  - Load http://localhost:3000 in a browser and you should see this
+
+  ![Ciro Notification Center UI Screenshot](./UI-Screenshot.png)
 
 ### Extensions
   - add unit & screen-render based tests

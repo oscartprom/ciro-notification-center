@@ -12,6 +12,7 @@ Two component: React frontend and Node.js / Express backend
   ![Ciro Notification Center UI Screenshot](./UI-Screenshot.png)
 
 ### Extensions
+  - make notifications appear one at a time instead of all on screen on page load
   - convert to typescript
   - add unit & screen-render based tests
   - add static build to Express server via public directory
